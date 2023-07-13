@@ -1,3 +1,6 @@
+# Bulus Kyenshak hashimu
+#BHU/22/04/05/0107
+
 class BankAccount:
     def __init__(self, account_type, balance=15000):
         self.account_type = account_type
